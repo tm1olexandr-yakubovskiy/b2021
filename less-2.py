@@ -96,3 +96,4 @@ for day in range(365):
     if dick.alive == False:
         break
     dick.live(day)
+
