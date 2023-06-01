@@ -11,4 +11,4 @@ for parse_elem_1 in response_parse:
                 res_parse_list.append(parse_elem_2)
 
 dollar_rate = res_parse_list[0]
-print(f'Oфіційний курс гривні в Україні - {dollar_rate}')
+print(f'Oфіційний курс долара в Україні - {dollar_rate}')
